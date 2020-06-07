@@ -1,6 +1,6 @@
 # ML-Intro
-My trials in machine learning with Python.
+My notes and experiences in ML with Python, using various tutorials and reference points to develop a better understanding of the machine-learning process, algorithms involved, and more. 
 
-This repository includes various code snippets used as I learn more about ML. 
-Any of the files can be run stand-alone (I recommend Spyder)
+Any of the files can be run stand-alone (I recommend Spyder).
+
 Uses Anaconda as its distribution platform and various built-in packages.
