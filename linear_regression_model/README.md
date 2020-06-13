@@ -1,4 +1,6 @@
-runs as a folder together
+runs as a folder together**
+
+uses Flask as its back-end to perform a simple linear regression model to predict salaries based on given data
 
 TO RUN:
 download and type prompt: python app.py 
